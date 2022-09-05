@@ -485,7 +485,7 @@ header label{
 }
 
 .footer{
-    background-image: url(img/footer-fondo.png);
+    background-image: url(.../img/footer-fondo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
